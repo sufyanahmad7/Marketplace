@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Financial :moneybag: comparison websites are not new. It started with MoneySmart many years ago as a personal budgeting website and eventually included credit cards and other financial products. We’re seeing seismic shifts in the ways which people grow and spend their money.
+Financial comparison websites are not new. It started with MoneySmart many years ago as a personal budgeting website and eventually included credit cards and other financial products. We’re seeing seismic shifts in the ways which people grow and spend their money.
 
 However, as a person of faith, I can only consume shariah-compliant products (or interest-free products). Hence, my project is about developing a shariah-compliant comparison website that can serve this demographic, especially in SEA.
 
@@ -36,4 +36,4 @@ Figma, Trello, Git, PHP (Laravel), HTML/CSS (Bootstrap), MYSQL and Heroku (<http
 
 The concepts in PHP (Laravel) were fairly easy to understand. Moving forward, I'd like to further develop my knowledge and experience in PHP (Laravel) by working on it in the near future.
 
-Difficulty Level: :6:
+Difficulty Level: :six:
