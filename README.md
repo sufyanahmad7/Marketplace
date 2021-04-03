@@ -9,8 +9,6 @@ However, as a person of faith, I can only consume shariah-compliant products (or
 ## Tech Stack
 
 Figma, Trello, Git, PHP (Laravel), HTML/CSS (Bootstrap), MYSQL and Heroku (<http://smartmamat.herokuapp.com>)
- 
- (http://www.google.fr/ "Named link title") 
 
 
 ## Key Features (App Ready)
