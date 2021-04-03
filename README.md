@@ -10,7 +10,6 @@ However, as a person of faith, I can only consume shariah-compliant products (or
 
 Figma, Trello, Git, PHP (Laravel), HTML/CSS (Bootstrap), MYSQL and Heroku (<http://smartmamat.herokuapp.com>)
 
-
 ## :white_check_mark: Key Features (App Ready)
 
 1. Browse products (logged in or not)
