@@ -8,7 +8,13 @@ However, as a person of faith, I can only use shariah-compliant products (or int
 
 ## :computer: Tech Stack
 
-Figma, Trello, Git, PHP (Laravel), HTML/CSS (Bootstrap), MYSQL and Heroku
+1. Design = Figma
+2. Project management = Trello
+3. Version tracking = Git
+4. Database = MYSQL
+5. Backend = PHP (Laravel)
+6. Frontend = HTML/CSS (Bootstrap)
+7. Cloud hosting = Heroku
 
 ## :white_check_mark: Key Features (App Ready)
 
