@@ -1,4 +1,4 @@
-# SMU_CapstoneProject_ComparisonWebsite
+# Marketplace
 
 ## :book: Introduction
 
